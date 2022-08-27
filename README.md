@@ -8,5 +8,5 @@ NatsumeHikaru/NatsumeHikaru is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 [My blog](https://hikaru.com.cn/)   
-Algorithm learning
+Algorithm learning    
 ![](https://luogu.wao3.cn/api/practice?id=214654)
